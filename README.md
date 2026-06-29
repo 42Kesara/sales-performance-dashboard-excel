@@ -47,4 +47,3 @@ It focuses on sales analysis, KPI tracking, business reporting, and data visuali
 **Kesara Lakpriya**
 
 GitHub: `https://github.com/42Kesara`  
-LinkedIn: `Add your LinkedIn profile link here`
